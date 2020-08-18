@@ -1,6 +1,23 @@
 # fastai_dl_studying
 My personal repo on notes and papers that helped with studying DL, fast.ai etc
 
+## Course Notes for fastai course 2019
+### Part 1
+
+TODO
+
+### Part 2
+
+By Medium user [@lankinen](https://medium.com/@lankinen)
+- [Lesson 8](https://medium.com/@lankinen/fast-ai-lesson-8-notes-part-2-v3-8965a6532f51)
+- [Lesson 9](https://medium.com/@lankinen/fast-ai-lesson-9-notes-part-2-v3-ca046a1a62ef)
+- [Lesson 10](https://medium.com/@lankinen/fast-ai-lesson-10-notes-part-2-v3-aa733216b70d)
+- [Lesson 11](https://medium.com/@lankinen/fast-ai-lesson-11-notes-part-2-v3-6d28e17509f4)
+- [Lesson 12](https://medium.com/@lankinen/fast-ai-lesson-12-notes-part-2-v3-dd53bec89c0b)
+- [Lesson 13](https://medium.com/@lankinen/fast-ai-lesson-13-notes-part-2-v3-2d62ef11d2db)
+- [Lesson 14](https://medium.com/@lankinen/fast-ai-lesson-14-notes-part-2-v3-be4667394295)
+
+
 ## Tips
 
 - Watch all lectures three times
