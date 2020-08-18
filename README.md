@@ -50,7 +50,7 @@ Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
     - Gradients being computed aren't gradients of the final architecture
 
 ### Batch Normalization
-[arXiv:1502.03167v3  [cs.LG]  2 Mar 2015 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | arXiv:1502.03167v3  \[cs.LG\]  2 Mar 2015 ](https://arxiv.org/abs/1502.03167)
 - Reading difficulty level: 6/10, some math, 
 - Main Intuition(s): <todo>
 - Useful Concepts to know: <todo>
